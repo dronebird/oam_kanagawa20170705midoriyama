@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pix4dmapper>
+    <options>
+        <loadTemplate>3d-maps</loadTemplate>
+    </options>
+    <inputs>
+        <images>
+            <image path="C:/Users/taichi/Documents/2017-07-05_midoriyama/img/DSC05539.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-07-05_midoriyama/img/DSC05540.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-07-05_midoriyama/img/DSC05541.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-07-05_midoriyama/img/DSC05542.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-07-05_midoriyama/img/DSC05543.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-07-05_midoriyama/img/DSC05544.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-07-05_midoriyama/img/DSC05545.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-07-05_midoriyama/img/DSC05546.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-07-05_midoriyama/img/DSC05547.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-07-05_midoriyama/img/DSC05548.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-07-05_midoriyama/img/DSC05549.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-07-05_midoriyama/img/DSC05550.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-07-05_midoriyama/img/DSC05551.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-07-05_midoriyama/img/DSC05552.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-07-05_midoriyama/img/DSC05553.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-07-05_midoriyama/img/DSC05554.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-07-05_midoriyama/img/DSC05555.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-07-05_midoriyama/img/DSC05556.JPG"/>
+            <image path="C:/Users/taichi/Documents/2017-07-05_midoriyama/img/DSC05557.JPG"/>
+        </images>
+        <processingArea>
+            <geoCoord2D lat="35.5709740000" lng="139.4814225000"/>
+            <geoCoord2D lat="35.5704892000" lng="139.4797744000"/>
+            <geoCoord2D lat="35.5689611000" lng="139.4804561000"/>
+            <geoCoord2D lat="35.5694459300" lng="139.4821042800"/>
+        </processingArea>
+    </inputs>
+</pix4dmapper>
